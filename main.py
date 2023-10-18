@@ -1,3 +1,3 @@
-import BarryScript
+import sus_lib
 
-print(BarryScript.sum_as_string(1,2))
+print(sus_lib.sum_as_string(1,2))
